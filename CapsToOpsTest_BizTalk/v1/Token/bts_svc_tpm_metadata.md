@@ -1,0 +1,1 @@
+<Token xmlns:xlink="http://www.w3.org/1999/xlink"><codeInline xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5">https://mybiztalkservice.biztalk.windows.net/default/$PartnerManagement</codeInline></Token>
